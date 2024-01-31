@@ -55,10 +55,12 @@ p {
   font-family: "Courier New", Courier, monospace;
   font-weight: 500;
 }
-@media only screen and (max-width: 768px) {
-  .container {
-    width: 100%; /* Set width to 100% for mobile screens */
-    height: 150px; /* Set a specific height for mobile screens */
-    background-color: #e74c3c; /* Change background color for mobile screens */
-  }
-}
+/* @media only screen and (max-width: 600px) {
+  .body {
+    width: 388px; /* Set width to 100% for mobile screens */
+    /* height: 383pxpx; Set a specific height for mobile screens */
+    /* background-color: #e74c3c; Change background color for mobile screens */
+  /* }body{ */
+    /* background-color: red; */
+  /* } */
+/* } */ 
